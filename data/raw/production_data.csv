@@ -1,0 +1,106 @@
+Country,Year,Tonnes,Type,Mineral
+Australia,2023,4600,mine,Cobalt
+Canada,2023,2100,mine,Cobalt
+Cuba,2023,3200,mine,Cobalt
+Congo,2023,170000,mine,Cobalt
+Indonesia,2023,17000,mine,Cobalt
+Madagascar,2023,4000,mine,Cobalt
+New Caledonia,2023,3000,mine,Cobalt
+Papua New Guinea,2023,2900,mine,Cobalt
+Philippines,2023,3800,mine,Cobalt
+Russia,2023,8800,mine,Cobalt
+Turkey,2023,2800,mine,Cobalt
+United States,2023,500,mine,Cobalt
+Australia,2023,810000,mine,Copper
+Canada,2023,480000,mine,Copper
+Chile,2023,5000000,mine,Copper
+China,2023,1700000,mine,Copper
+Congo,2023,2500000,mine,Copper
+Germany,2023,0,mine,Copper
+Indonesia,2023,840000,mine,Copper
+Japan,2023,0,mine,Copper
+Kazakhstan,2023,600000,mine,Copper
+Mexico,2023,750000,mine,Copper
+Peru,2023,2600000,mine,Copper
+Poland,2023,400000,mine,Copper
+Russia,2023,910000,mine,Copper
+South Korea,2023,0,mine,Copper
+United States,2023,1100000,mine,Copper
+Zambia,2023,760000,mine,Copper
+Australia,2023,450000,refinery,Copper
+Canada,2023,310000,refinery,Copper
+Chile,2023,2000000,refinery,Copper
+China,2023,12000000,refinery,Copper
+Congo,2023,1900000,refinery,Copper
+Germany,2023,610000,refinery,Copper
+Indonesia,2023,200000,refinery,Copper
+Japan,2023,1500000,refinery,Copper
+Kazakhstan,2023,440000,refinery,Copper
+Mexico,2023,480000,refinery,Copper
+Peru,2023,400000,refinery,Copper
+Poland,2023,590000,refinery,Copper
+Russia,2023,1000000,refinery,Copper
+South Korea,2023,620000,refinery,Copper
+United States,2023,890000,refinery,Copper
+Zambia,2023,380000,refinery,Copper
+Austria,2023,500,mine,Graphite
+Brazil,2023,73000,mine,Graphite
+Canada,2023,3500,mine,Graphite
+China,2023,1230000,mine,Graphite
+Germany,2023,150,mine,Graphite
+India,2023,11500,mine,Graphite
+Madagascar,2023,100000,mine,Graphite
+Mexico,2023,2000,mine,Graphite
+Mozambique,2023,96000,mine,Graphite
+North Korea,2023,8100,mine,Graphite
+Norway,2023,7200,mine,Graphite
+Russia,2023,16000,mine,Graphite
+South Korea,2023,27000,mine,Graphite
+Sri Lanka,2023,2200,mine,Graphite
+Tanzania,2023,6000,mine,Graphite
+Turkey,2023,2000,mine,Graphite
+Ukraine,2023,2000,mine,Graphite
+United States,2023,0,mine,Graphite
+Vietnam,2023,500,mine,Graphite
+Argentina,2023,9600,mine,Lithium
+Australia,2023,86000,mine,Lithium
+Brazil,2023,4900,mine,Lithium
+Canada,2023,3400,mine,Lithium
+Chile,2023,44000,mine,Lithium
+China,2023,33000,mine,Lithium
+Portugal,2023,380,mine,Lithium
+Zimbabwe,2023,3400,mine,Lithium
+Australia,2023,160000,mine,Nickel
+Brazil,2023,89000,mine,Nickel
+Canada,2023,180000,mine,Nickel
+China,2023,110000,mine,Nickel
+Indonesia,2023,1800000,mine,Nickel
+New Caledonia,2023,230000,mine,Nickel
+Philippines,2023,400000,mine,Nickel
+Russia,2023,200000,mine,Nickel
+United States,2023,17000,mine,Nickel
+Canada,2023,16,"mine, palladium",Platinum Group Metals 
+Russia,2023,92,"mine, palladium",Platinum Group Metals 
+South Africa,2023,71,"mine, palladium",Platinum Group Metals 
+United States,2023,9.8,"mine, palladium",Platinum Group Metals 
+Zimbabwe,2023,15,"mine, palladium",Platinum Group Metals 
+Canada,2023,5.5,"mine, platinum",Platinum Group Metals 
+Russia,2023,23,"mine, platinum",Platinum Group Metals 
+South Africa,2023,120,"mine, platinum",Platinum Group Metals 
+United States,2023,2.9,"mine, platinum",Platinum Group Metals 
+Zimbabwe,2023,19,"mine, platinum",Platinum Group Metals 
+Australia,2023,18000,mine,Rare Earths
+Brazil,2023,80,mine,Rare Earths
+Canada,2023,0,mine,Rare Earths
+China,2023,240000,mine,Rare Earths
+Greenland,2023,0,mine,Rare Earths
+India,2023,2900,mine,Rare Earths
+Madagascar,2023,960,mine,Rare Earths
+Malaysia,2023,80,mine,Rare Earths
+Myanmar,2023,38000,mine,Rare Earths
+Russia,2023,2600,mine,Rare Earths
+South Africa,2023,0,mine,Rare Earths
+Tanzania,2023,0,mine,Rare Earths
+Thailand,2023,7100,mine,Rare Earths
+United States,2023,43000,mine,Rare Earths
+Vietnam,2023,600,mine,Rare Earths
